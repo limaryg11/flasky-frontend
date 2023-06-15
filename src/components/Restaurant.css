@@ -5,3 +5,11 @@
 .restaurant-list {
     list-style-type: none;
 }
+
+.high-rating {
+    color: magenta
+}
+
+.rating {
+    color:black
+}
